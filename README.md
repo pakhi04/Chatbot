@@ -1,6 +1,3 @@
-Here’s a `README.md` file for your GitHub repository based on your chatbot project:  
-
-```md
 # Chatbot using BERT  
 
 ## 📌 Project Overview  
